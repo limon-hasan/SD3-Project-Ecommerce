@@ -1,0 +1,21 @@
+.profile-page {
+    padding-top: 100px;
+    min-height: 100vh;
+}
+
+.profile-header {
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+}
+
+.user-info p {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-main);
+}
+
+.order-history h2 {
+    margin-bottom: 1rem;
+    color: var(--primary);
+}

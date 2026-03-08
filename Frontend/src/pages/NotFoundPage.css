@@ -1,0 +1,33 @@
+.not-found-page {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.not-found-content {
+    padding: 4rem;
+    border-radius: 20px;
+    max-width: 600px;
+    width: 100%;
+}
+
+.not-found-content h1 {
+    font-size: 6rem;
+    margin-bottom: 1rem;
+    line-height: 1;
+}
+
+.not-found-content h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--text-main);
+}
+
+.not-found-content p {
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
